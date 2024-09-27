@@ -26,7 +26,7 @@
 
 <div align="center">
 <a href="https://vk.com/nightmore5701" target="_blank">
-<img src="../alexandr57orl/assets/1521486338_MOSHED-2018-3-19-22-5-33.gif" height="47" alt="vk logo"/>
+<img src="https://github.com/Alexandr57Orl/alexandr57orl/blob/main/assets/1521486338_MOSHED-2018-3-19-22-5-33.gif?raw=true" height="47" alt="vk logo"/>
 </a>  
 <a href="https://github.com/Alexandr57Orl" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="HTML5 logo" title="HTML5" height="45" />
